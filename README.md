@@ -1,16 +1,13 @@
-## Hi there 👋
+#  ToneTest
+### Learning C++ 
 
-<!--
-**ToneTest0226/ToneTest0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center;">
+    <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/672d850d31d65c235d5d8b2b?variant=dark" alt="Roadmap Card" height="400px">
+    </a>
+    <img src="https://http.cat/images/418.jpg" height="400px">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# pretty boring i know
